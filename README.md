@@ -38,6 +38,7 @@ Dupay是最佳选择。
 ### 如何注册Dupay
 
 1. **点击进入Dupay注册页面**：[Dupay官方注册](https://bit.ly/DuPay)，或扫描下方二维码。
+
 ![image](https://github.com/user-attachments/assets/add63621-ce1e-4855-8b5c-7714db74bc91)
 
 2. **选择注册方式**：可选择邮箱注册或手机号注册，填写相关信息后完成注册，成功后将跳转至下载APP页面。
